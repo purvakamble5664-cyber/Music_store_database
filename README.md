@@ -3,6 +3,7 @@
 
 1.Postgre SQL
 2.PgAdmin4
+
 Schema- Music Store Database
 
 <img width="710" height="574" alt="image" src="https://github.com/user-attachments/assets/1dd753d2-157c-4ebb-996f-721ea765ab9c" />
